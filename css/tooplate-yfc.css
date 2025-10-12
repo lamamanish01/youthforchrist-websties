@@ -9,8 +9,8 @@ https://www.tooplate.com/view/2117-yfc-loop
 @import url("https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900");
 
 body {
-	font-family: "Raleway", sans-serif;
-	font-size: 1.2em;
+  font-family: "Raleway", sans-serif;
+  font-size: 1.2em;
   color: #707070;
   margin: 0;
   padding: 0;
@@ -145,7 +145,7 @@ blockquote {
 /* Hero */
 
 #yfc {
-	background-color: #222;
+  background-color: #222;
   background-image: url(../img/background-01.png);
   background-repeat: no-repeat;
   height: 100vh;
@@ -697,3 +697,4 @@ p {
     margin: 0;
   }
 }
+
